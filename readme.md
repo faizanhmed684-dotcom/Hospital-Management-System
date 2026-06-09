@@ -1,5 +1,5 @@
 Title:
-Hospital Management System
+<h1>Hospital Management System</h1>
 Project Description
 Hospital Management System is a database project designed to manage and organize hospital activities in an efficient way. The system helps hospitals store important information such as patient records, doctor details, appointments, billing, rooms, and staff data in a computerized form.
 In traditional hospitals, records are often managed manually, which can cause errors and waste time. This system reduces paperwork and makes data management faster, easier, and more
